@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP.NET MVC Entity Framework Assignment Part 4.props" />
+</Project>

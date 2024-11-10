@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.staticwebassets.runtime.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.exe
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.deps.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.runtimeconfig.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.dll
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\bin\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.pdb
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET MVC Entity Framework Assignment Part 4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET MVC Entity Framework Assignment Part 4.props
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET MVC Entity Framework Assignment Part 4.props
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET MVC Entity Framework Assignment Part 4.props
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\scopedcss\bundle\ASP.NET MVC Entity Framework Assignment Part 4.styles.css
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\scopedcss\projectbundle\ASP.NET MVC Entity Framework Assignment Part 4.bundle.scp.css
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.dll
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\refint\ASP.NET MVC Entity Framework Assignment Part 4.dll
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.pdb
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ASP.NET MVC Entity Framework Assignment Part 4.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ASP.NET MVC Entity Framework Assignment Part 4\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\net8.0\ref\ASP.NET MVC Entity Framework Assignment Part 4.dll
