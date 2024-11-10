@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@model YourNamespace.Models.Insuree
+
+<form method="post" action="@Url.Action("CalculateQuote", "Insuree")">
+    <label for="Age">Age:</label>
+    <input type="number" id="Age" name="Age" />
+
+    <label for="CarYear">Car Year:</label>
+    <input type="number" id="CarYear" name="CarYear" />
+
+    <label for="CarMake">Car Make:</label>
+    <input type="text" id="CarMake" name="CarMake" />
+
+    <label for="CarModel">Car Model:</label>
+    <input type="text" id="CarModel" name="CarModel" />
+
+    <label for="SpeedingTickets">Speeding Tickets:</label>
+    <input type="number" id="SpeedingTickets" name="SpeedingTickets" />
+
+    <label for="HasDUI">Has DUI:</label>
+    <input type="checkbox" id="HasDUI" name="HasDUI" />
+
+    <label for="HasFullCoverage">Has Full Coverage:</label>
+    <input type="checkbox" id="HasFullCoverage" name="HasFullCoverage" />
+
+    <button type="submit">Calculate Quote</button>
+</form>
